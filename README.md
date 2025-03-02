@@ -1,6 +1,6 @@
 # ulys_clip
-V1.1: Improved -> More compact and tighter clip effect
-V1.0: Initial version
+- V1.1: Improved -> More compact and tighter clip effect
+- V1.0: Initial version
 
 # Description
 3D printed Clip to hold Ulys badge used in French motorways
